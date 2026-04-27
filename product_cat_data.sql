@@ -1,0 +1,7 @@
+BEGIN
+insert into PRODUCT_CATEGORY (CATEGORY_NAME) VALUES ('Electronics');
+insert into PRODUCT_CATEGORY (CATEGORY_NAME) VALUES ('Grocery');
+insert into PRODUCT_CATEGORY (CATEGORY_NAME) VALUES ('Fashion');
+insert into PRODUCT_CATEGORY (CATEGORY_NAME) VALUES ('Furniture');
+insert into PRODUCT_CATEGORY (CATEGORY_NAME) VALUES ('Stationary');
+End;
